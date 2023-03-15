@@ -1,0 +1,30 @@
+html{
+    background-color: azure;
+    padding: 40px;
+}
+#titulotexto1{
+    background-color: burlywood;
+    text-align: center;
+    padding: 18px;
+    margin: 10px;
+}
+#titulotexto2{
+    background-color: antiquewhite;
+    text-align: left;
+    margin: 10px;
+    padding: 5px;
+}
+#texto{
+    text-align: justify;
+    margin: 30px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.titulo{
+    text-align: justify;
+}
+.text{
+    text-align: justify;
+    margin: 35px;
+    font-size: 16.5px;
+}

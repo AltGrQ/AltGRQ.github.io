@@ -1,0 +1,29 @@
+html{
+    background-color: azure;
+}
+#texto{
+    text-align: justify;
+    margin: 40px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+#encabezado{
+    text-align: center;
+}
+#imagen1{
+    width: 325px;
+    margin: 15px;
+}
+#image{
+    text-align: center;
+}
+#txt{
+    text-align: justify;
+    margin: 40px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+#titulotexto{
+    background-color: antiquewhite;
+    text-align: center;
+}

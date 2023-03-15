@@ -1,0 +1,29 @@
+html{
+    background-color: azure;
+}
+#titulotexto1{
+    background-color: burlywood;
+    text-align: center;
+    padding: 18px;
+    margin: 10px;
+}
+#titulotexto2{
+    background-color: antiquewhite;
+    text-align: left;
+    margin: 10px;
+    padding: 5px;
+}
+#texto{
+    text-align: justify;
+    margin: 40px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+#image{
+    text-align: center;
+}
+#imagen1{
+    width: 500px;
+    border: solid 5px black;
+    margin: 10px;
+}
